@@ -15,8 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+  
+<div class="row">
+    <div class="col">
 [![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&theme=dark&hide=html)](https://github.com/icatpojan?tab=follow)
 <p align="left">
+
+    </div>
+    <div class="col">
+
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">   
 <img height="25" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-codeigniter.jpg">   
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   
@@ -28,3 +35,6 @@ Here are some ideas to get you started:
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">   
 <img height="25" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
 </p>
+
+    </div>
+</div>
