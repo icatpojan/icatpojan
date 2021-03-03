@@ -1,4 +1,4 @@
-<h1>SAMLEKOM 👋</h1>
+<h1>HAI HAI HAI 👋</h1>
 <hr>
 
 **Languages, Frameworks, and Tools:**  
