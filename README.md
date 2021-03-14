@@ -1,4 +1,5 @@
 <h1>HAI HAI HAI 👋</h1>
+emember! CoffeScript gave JavaScript many revolutionary ideas, but failed to maintain its position as a revolutionary language. Until finally displaced by JavaScript which continues to grow.
 <hr>
 
 **Languages, Frameworks, and Tools:**  
