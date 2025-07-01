@@ -1,26 +1,52 @@
-<h1>HAI HAI HAI 👋</h1>
-Remember! CoffeScript gave JavaScript many revolutionary ideas, but failed to maintain its position as a revolutionary language. Until finally displaced by JavaScript which continues to grow. Laravel addict
-<hr>
+<h1 align="center">Hi, I'm Icat 👋</h1>
+<p align="center"><strong>💻 Fullstack Developer & Crypto Addict | Focused on speed, money & freedom</strong></p>
+<p align="center">Laravel enthusiast with passion for fast execution, clean delivery, and monetizable code.</p>
 
-**Languages, Frameworks, and Tools:**  
+---
+
+### 🧰 Languages & Tools
 
 <p align="left">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">   
-<img height="25" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-codeigniter.jpg">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">   
-<img height="25" src="https://code.visualstudio.com/assets/favicon.ico">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">   
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">   
-<img height="25" src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL">
+  <img height="25" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-codeigniter.jpg" alt="CodeIgniter">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
+  <img height="25" src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode">
 </p>
 
-<br>
+---
 
-**Stats**
+### 📈 GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=icatpojan&theme=dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/icatpojan?tab=follow)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=icatpojan&theme=tokyonight&count_private=true&show_icons=true&line_height=24" alt="Icat's GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&theme=tokyonight&layout=compact&hide=html" alt="Top Languages">
+</p>
 
-[![Top Langs'](https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&theme=dark&hide=html)](https://github.com/icatpojan?tab=follow)
+---
+
+### 🧠 Fun Fact
+
+> "CoffeeScript gave JavaScript many revolutionary ideas, but failed to stay alive.  
+> Meanwhile, JavaScript kept evolving. Same as life — execution wins."  
+> — *Laravel Addict*
+
+---
+
+<!-- 📫 Let's Connect (optional) -->
+
+<!-- Uncomment and fill if needed -->
+<!-- 
+[![Website](https://img.shields.io/badge/website-online-green)](https://your-website.com)
+[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://linkedin.com/in/yourhandle)
+-->
+
+---
+
