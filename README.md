@@ -11,7 +11,6 @@
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL">
-  <img height="25" src="https://www.zend.com/sites/zend/files/image/2019-09/logo-codeigniter.jpg" alt="CodeIgniter">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
