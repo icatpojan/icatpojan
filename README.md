@@ -1,50 +1,86 @@
 <h1 align="center">Hi, I'm Icat 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Node.js;5%2B+Years+Production+Experience;Backend-focused%2C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend-first+Engineer;Laravel+%7C+Next.js+%7C+Node.js;5%2B+Years+Production+Experience;Clean+Architecture+%26+Scalable+Systems" />
 </p>
 
 <p align="center">
   <strong>Fullstack Web Developer</strong><br/>
-  Backend-first engineer with strong production mindset, clean delivery, and scalable architecture.
+  Backend-focused engineer with strong production mindset, clean delivery, and scalable architecture.
+</p>
+
+---
+
+<!-- ===================== STATS & ACTIVITY ===================== -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icatpojan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=icatpojan&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ===================== TECH LOGOS ===================== -->
+
+<p align="center">
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 **5+ years** of hands-on experience in **production web applications**
-- 🧠 Strong focus on **backend architecture**, performance, and reliability
-- 🚀 Experienced in building **business-driven, monetizable systems**
-- 🌏 Comfortable working with **international teams** and documentation (EN/JP-friendly)
-- ⚡ Prioritize **execution, maintainability, and real-world impact**
+- 💼 **5+ years** experience building **production-ready web applications**
+- 🧠 Strong expertise in **backend architecture, performance, and data design**
+- 🚀 Build **business-driven & monetizable systems**
+- 🌏 Comfortable with **international teams & documentation** (EN / JP friendly)
+- ⚡ Focus on **execution, maintainability, and long-term scalability**
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🧰 Tech Stack & Expertise
 
 ### Languages
 - **PHP**, **JavaScript**, **TypeScript**
 - SQL
 
 ### Backend
-- **Laravel** (Advanced, Service Layer, Clean Architecture)
-- **Node.js** (Express.js)
-- **AdonisJS**
-- REST API design & integration
-- Authentication & Authorization (JWT, Session, Role-based)
+- **Laravel** (Advanced)
+  - Service Layer
+  - Repository Pattern
+  - Clean Architecture
+  - Queue, Job, Event
+- **Node.js**
+  - Express.js
+  - **AdonisJS**
+- REST API Design
+- Authentication & Authorization (JWT, Session, RBAC)
 
 ### Frontend
 - **Next.js**
-- React (App Router, API routes)
-- Basic UI/UX focused on usability
+- React (App Router, API Routes)
+- Practical UI/UX focused on usability
 
 ### Database
 - **MySQL**
 - **PostgreSQL**
 - **MongoDB**
-- Query optimization & indexing
-- Database design & normalization
+- Indexing & Query Optimization
+- Schema & Relational Design
 
 ### Dev Tools
 - Git & GitHub
@@ -56,42 +92,30 @@
 ### DevOps & CI
 - CI/CD pipelines
 - Environment-based configuration
-- Deployment-ready project structure
-- Docker (basic usage)
+- Docker (basic–intermediate)
+- Production deployment mindset
 
 ### AI & Automation
-- AI API integration (workflow automation, content processing)
-- Prompt-based system design
+- AI API integration
+- Prompt-based workflow automation
 - AI-assisted development for speed & accuracy
 
 ---
 
-## 🧩 What I Do Well
+## 🧩 What I Do Best
 
 - Design **clean, scalable backend systems**
-- Convert business needs into **working production code**
+- Translate business requirements into **working production code**
 - Build APIs that are **stable, documented, and reusable**
-- Refactor legacy code into **maintainable architecture**
-- Deliver features **fast without sacrificing clarity**
+- Refactor legacy systems into **maintainable architecture**
+- Deliver fast **without sacrificing clarity**
 
 ---
 
-## 📊 GitHub Activity
+## 🧠 Engineering Philosophy
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icatpojan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Philosophy
-
-> “Tools change. Fundamentals stay.  
-> Execution, clarity, and responsibility define an engineer.”
+> “Technology changes. Fundamentals stay.  
+> Execution, clarity, and responsibility define a professional engineer.”
 
 ---
 
@@ -99,52 +123,8 @@
   <sub>Open for professional collaboration and long-term engineering roles.</sub>
 </p>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- ===================== SNAKE ===================== -->
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
