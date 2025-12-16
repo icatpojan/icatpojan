@@ -1,51 +1,100 @@
 <h1 align="center">Hi, I'm Icat 👋</h1>
-<p align="center"><strong>💻 Fullstack Developer & Crypto Addict | Focused on speed, money & freedom</strong></p>
-<p align="center">Laravel enthusiast with passion for fast execution, clean delivery, and monetizable code.</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Fullstack+Web+Developer;Laravel+%7C+Next.js+%7C+Node.js;5%2B+Years+Production+Experience;Backend-focused%2C+Clean+Architecture" />
+</p>
 
-### 🧰 Languages & Tools
-
-<p align="left">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" alt="PHP">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" alt="Laravel">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" alt="Terminal">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL">
-  <img height="25" src="https://code.visualstudio.com/assets/favicon.ico" alt="VSCode">
+<p align="center">
+  <strong>Fullstack Web Developer</strong><br/>
+  Backend-first engineer with strong production mindset, clean delivery, and scalable architecture.
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 👨‍💻 About Me
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=icatpojan&theme=tokyonight&count_private=true&show_icons=true&line_height=24" alt="Icat's GitHub Stats">
+- 💼 **5+ years** of hands-on experience in **production web applications**
+- 🧠 Strong focus on **backend architecture**, performance, and reliability
+- 🚀 Experienced in building **business-driven, monetizable systems**
+- 🌏 Comfortable working with **international teams** and documentation (EN/JP-friendly)
+- ⚡ Prioritize **execution, maintainability, and real-world impact**
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### Languages
+- **PHP**, **JavaScript**, **TypeScript**
+- SQL
+
+### Backend
+- **Laravel** (Advanced, Service Layer, Clean Architecture)
+- **Node.js** (Express.js)
+- **AdonisJS**
+- REST API design & integration
+- Authentication & Authorization (JWT, Session, Role-based)
+
+### Frontend
+- **Next.js**
+- React (App Router, API routes)
+- Basic UI/UX focused on usability
+
+### Database
+- **MySQL**
+- **PostgreSQL**
+- **MongoDB**
+- Query optimization & indexing
+- Database design & normalization
+
+### Dev Tools
+- Git & GitHub
+- **DBeaver**
+- **Postman**
+- VS Code
+- Linux / Terminal
+
+### DevOps & CI
+- CI/CD pipelines
+- Environment-based configuration
+- Deployment-ready project structure
+- Docker (basic usage)
+
+### AI & Automation
+- AI API integration (workflow automation, content processing)
+- Prompt-based system design
+- AI-assisted development for speed & accuracy
+
+---
+
+## 🧩 What I Do Well
+
+- Design **clean, scalable backend systems**
+- Convert business needs into **working production code**
+- Build APIs that are **stable, documented, and reusable**
+- Refactor legacy code into **maintainable architecture**
+- Deliver features **fast without sacrificing clarity**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icatpojan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&theme=tokyonight&layout=compact&hide=html" alt="Top Languages">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icatpojan&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Fun Fact
+## 🧠 Philosophy
 
-> "CoffeeScript gave JavaScript many revolutionary ideas, but failed to stay alive.  
-> Meanwhile, JavaScript kept evolving. Same as life — execution wins."  
-> — *Laravel Addict*
-
----
-
-<!-- 📫 Let's Connect (optional) -->
-
-<!-- Uncomment and fill if needed -->
-<!-- 
-[![Website](https://img.shields.io/badge/website-online-green)](https://your-website.com)
-[![Twitter](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect-blue)](https://linkedin.com/in/yourhandle)
--->
+> “Tools change. Fundamentals stay.  
+> Execution, clarity, and responsibility define an engineer.”
 
 ---
 
+<p align="center">
+  <sub>Open for professional collaboration and long-term engineering roles.</sub>
+</p>
