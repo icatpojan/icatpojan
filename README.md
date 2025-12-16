@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Icat 👋</h1>
+<h1 align="center">Hi, I'm Irsyad Fauzan 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Backend-first+Engineer;Laravel+%7C+Next.js+%7C+Node.js;5%2B+Years+Production+Experience;Clean+Architecture+%26+Scalable+Systems" />
